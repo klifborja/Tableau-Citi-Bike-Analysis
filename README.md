@@ -1,2 +1,4 @@
 # Tableau-Citi-Bike-Analysis
 Using Tableau to analyze Citi Bike trip history
+
+Aside from the immense data set. I was surprised to see how active the Citi Bike program is considering there are a number of bike and scooter services to choose from. This helped make a very robust data set that I was able to use to analyze the busiest locations based on how many trips were started at any given station. The data also allowed us to determine customer demographic based on gender, age, and also location. This information can help the company make marketing decisions to either grow their numbers or stay relevant with their current customers. Another useful metric is bike id. This helps the company determine which bikes get the most useage and track when a bike needs to come in for maintenance. All in all, the data collected can be used in numerous ways to benefit the company as well as to consumer.
